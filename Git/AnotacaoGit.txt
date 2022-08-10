@@ -1,0 +1,8 @@
+O este documento faz parte do desafio da Dio sobre o Git/Github.
+
+Foi visto comando basicos:
+
+- Key
+- clone
+- commit
+- push
